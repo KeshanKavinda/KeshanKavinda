@@ -11,15 +11,6 @@
 
 - 📫 How to reach me **rambukkanage.keshan@gmail.com**
 
-
-                                                                                    
-
-
-
-
-
-
-
 <p>
 <div align="center">
 <a href="https://github.com/KeshanKavinda">
@@ -28,8 +19,6 @@
 </a>
 </div>
 </p>
-
-
 
 
 
